@@ -75,7 +75,7 @@ const SellerAdminPage = () => {
         </div>
       ))}
 
-      <h3>Total value of the products: {totalStockValue}</h3>
+      <h3>Total value of the product: {totalStockValue}</h3>
     </div>
   );
 };
